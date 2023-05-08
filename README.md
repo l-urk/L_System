@@ -5,7 +5,7 @@ To start the program run L_System_Version*NUMBER* as administrator. It must be r
 and could damage your system.
 
 # Programs
-Netcat
+# Netcat
 To run netcat you must first install it with the install netcat button.
 This will install netcat and also add an exclusion to your windows defender antivirus so it will run.
 Messing this part up isn't the end of the world... Just restart the program as admin and hit the install button again then click through the prompt.

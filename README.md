@@ -1,6 +1,7 @@
 # L_System
 After extracting the zip file the folder called L_Sytem MUST be placed on the desktop. 
 Otherwise the program will not work properly and you could damage your system.
+
 To start the program run L_System.exe as *administrator*. It must be run as administrator or installing the required programs will not work,
 and could damage your system.
 

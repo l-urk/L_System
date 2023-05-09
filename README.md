@@ -1,4 +1,5 @@
 # L_System
+on version 1.0.1. 
 After extracting the zip file the folder called L_Sytem MUST be placed on the desktop. 
 Otherwise the program will not work properly and you could damage your system.
 
@@ -15,3 +16,5 @@ Usage: To connect to a remote server change the first textbox from 'localhost' t
 this will most commonly be (assumingly) be 11122.
 This will bring up a window and you will either have a chat server, an sh-chat server, a program shell, reverse shell, or plain text field once connected to your
 desired server.
+# Hammer
+Hammer is a ddos tool that requires python to run. Usage is self explanitory. It will flood the port on target ip address and port until server is down or the attack fails.

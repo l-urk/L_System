@@ -18,3 +18,7 @@ This will bring up a window and you will either have a chat server, an sh-chat s
 desired server.
 # Hammer
 Hammer is a ddos tool that requires python to run. Usage is self explanitory. It will flood the port on target ip address and port until server is down or the attack fails.
+
+#etc
+created in visual studio in written in vb.net
+source code in vb.net

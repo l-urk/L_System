@@ -20,5 +20,5 @@ desired server.
 Hammer is a ddos tool that requires python to run. Usage is self explanitory. It will flood the port on target ip address and port until server is down or the attack fails.
 
 #etc
-created in visual studio in written in vb.net
+created in visual studio with vb.net
 source code in vb.net

@@ -1,5 +1,7 @@
 # L_System
-on version 1.2.1. 
+on version 1.2.1.
+please use latest version as older versions do not represent the final product. can be found in releases...
+
 After extracting the zip file the folder called L_Sytem MUST be placed on the desktop. 
 Otherwise the program will not work properly and you could damage your system.
 

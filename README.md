@@ -1,5 +1,5 @@
 # L_System
-on version 1.0.1. 
+on version 1.2.1. 
 After extracting the zip file the folder called L_Sytem MUST be placed on the desktop. 
 Otherwise the program will not work properly and you could damage your system.
 
